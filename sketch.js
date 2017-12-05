@@ -1,5 +1,4 @@
-//https://github.com/stavrosdidakis/DAT-GAD-405_2017
-//https://p5js.org
+//Johan Steven Ospina Arroyave
 
 //DAT405 / GAD405
 //05_Motion Random Speed
